@@ -23,6 +23,15 @@ Software Developer 💻 | Dentist 🦷
 - PHP
 - Laravel
 
+
+
+<div align='center' width='100%' >
+
+![GitHub stats width='100%'](https://github-readme-stats.vercel.app/api?username=abedshamia&show_icons=true)  
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abedshamia)  
+  </div>
+  
 ## You can find me here :
 
 <div align='center' >
@@ -30,9 +39,3 @@ Software Developer 💻 | Dentist 🦷
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center'>](https://github.com/abedshamia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'>](https://www.linkedin.com/in//abedalrahman-shamia-7209b9158/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' align='center'>](https://twitter.com/DevAbedalrahman)  
   
   </div>
-  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abedshamia&show_icons=true)  
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abedshamia)  
-
