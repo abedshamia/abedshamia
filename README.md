@@ -10,7 +10,7 @@ Software Developer 💻 | Dentist 🦷
   
 ✨ I'm Abedalrahman from Palestine, Aspiring Fullstack JavaScript Developer.
 
-- 🔭 I’m currently going through Gaza Sky Geeks Career Accelerator course, and 100Devs Bootcamp.
+- 🔭 I’m currently going through Gaza Sky Geeks Career Accelerator internship, and 100Devs Bootcamp.
 - 🌱 I’m currently learning React and Next.js.
 
 
