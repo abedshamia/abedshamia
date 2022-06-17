@@ -8,16 +8,20 @@
 Software Developer 💻 | Dentist 🦷
   </h2>
   
-✨ I'm Abedalrahman from Palestine, Aspiring Fullstack JavaScript Developer.
+✨ I'm Abedalrahman from Palestine, Fullstack JavaScript Developer.
 
-- 🔭 I’m currently going through Gaza Sky Geeks Career Accelerator internship, and 100Devs Bootcamp.
-- 🌱 I’m currently learning React and Next.js.
+- 🔭 I’m currently enrolled as Software Developer at Google for Startups.
 
 
 ### Skills :
-- HTML, CSS, JavaScript.
 - Node.js
+- React
+- Vue
+- Redux
 - Express.js
+- MongoDB
+- PostgreSQL
+- HTML, CSS, JavaScript.
 
 ### Familiar with :
 - PHP
