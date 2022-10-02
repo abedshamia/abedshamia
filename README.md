@@ -10,13 +10,13 @@ Software Developer 💻 | Dentist 🦷
   
 ✨ I'm Abedalrahman from Palestine, Fullstack JavaScript Developer.
 
-- 🔭 I’m currently enrolled as Software Developer at Google for Startups.
+- 🔭 I’m currently enrolled as Software Developer at Lazzaro.
 
 
 ### Skills :
 - Node.js
 - React
-- Vue
+- Next.js
 - Redux
 - Express.js
 - MongoDB
