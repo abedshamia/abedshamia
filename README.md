@@ -8,16 +8,17 @@
 Software Developer 💻 | Dentist 🦷
   </h2>
   
-✨ I'm Abedalrahman from Palestine, Fullstack JavaScript Developer.
+✨ I'm Abedalrahman from Palestine, Front-End JavaScript Developer.
 
 - 🔭 I’m currently enrolled as Software Developer at Lazzaro.
 
 
 ### Skills :
-- Node.js
+
 - React
 - Next.js
 - Redux
+- Node.js
 - Express.js
 - MongoDB
 - PostgreSQL
