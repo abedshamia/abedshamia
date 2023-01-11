@@ -10,7 +10,7 @@ Software Developer 💻 | Dentist 🦷
   
 ✨ I'm Abedalrahman from Palestine, Front-End JavaScript Developer.
 
-- 🔭 I’m currently enrolled as Software Developer at Lazzaro.
+- 🔭 I’m currently enrolled as Software Developer at Faheem.
 
 
 ### Skills :
@@ -20,7 +20,6 @@ Software Developer 💻 | Dentist 🦷
 - Redux
 - Node.js
 - Express.js
-- MongoDB
 - PostgreSQL
 - HTML, CSS, JavaScript.
 
