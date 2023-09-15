@@ -18,6 +18,7 @@ Software Developer 💻 | Dentist 🦷
 - React
 - Next.js
 - Redux
+- TypeScript
 - Node.js
 - Express.js
 - PostgreSQL
