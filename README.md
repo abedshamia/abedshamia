@@ -8,25 +8,24 @@
 Software Developer 💻 | Dentist 🦷
   </h2>
   
-✨ I'm Abedalrahman from Palestine, Front-End JavaScript Developer.
-
-- 🔭 I’m currently enrolled as Software Developer at Faheem.
+✨ I'm Abedalrahman from Palestine, Software Engineer.
 
 
 ### Skills :
 
-- React
 - Next.js
+- React
 - Redux
 - TypeScript
 - Node.js
 - Express.js
-- PostgreSQL
-- HTML, CSS, JavaScript.
-
-### Familiar with :
-- PHP
+- PostgreSQL/MySQL
 - Laravel
+- React Native
+- RTC
+- Web Performance Optimization
+- HTML, CSS, JavaScript, PHP.
+
 
 
 
