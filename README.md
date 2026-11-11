@@ -1,45 +1,11 @@
-<h1 align='center'>
- Hi there 👋 <br>
- Abedalrahman Shamia here
-  </h1>
-  
-  <h2 align='center'>
- 
-Software Developer 💻 | Dentist 🦷
-  </h2>
-  
-✨ I'm Abedalrahman from Palestine, Software Engineer.
+# Abedalrahman Shamia
 
+Senior software engineer in Cairo. I build full-stack products with Laravel, Next.js and React Native, and I use AI coding agents every day, reviewing everything they write.
 
-### Skills :
+**Now**
+- **Faheem**: online tutoring platform in Saudi Arabia. I work across the Laravel API, the Next.js web apps and the React Native apps, and led the technical rebuild of the web platform on Next.js and React.
+- **ClinicMate**: clinic-management SaaS I co-founded. Laravel API, React web app and an Expo app on both stores, used by about 35 clinics.
 
-- Next.js
-- React
-- Redux
-- TypeScript
-- Node.js
-- Express.js
-- PostgreSQL/MySQL
-- Laravel
-- React Native
-- RTC
-- Web Performance Optimization
-- HTML, CSS, JavaScript, PHP.
+**Stack:** TypeScript, PHP · Laravel · Next.js, React · React Native, Expo · MySQL, PostgreSQL, Redis · AWS, Vercel · Claude Code, Playwright
 
-
-
-
-<div align='center' width='100%' >
-
-![GitHub stats width='100%'](https://github-readme-stats.vercel.app/api?username=abedshamia&show_icons=true)  
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abedshamia)  
-  </div>
-  
-## You can find me here :
-
-<div align='center' >
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center'>](https://github.com/abedshamia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align='center'>](https://www.linkedin.com/in//abedalrahman-shamia-7209b9158/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' align='center'>](https://twitter.com/DevAbedalrahman)  
-  
-  </div>
+[LinkedIn](https://linkedin.com/in/abedshamia)
